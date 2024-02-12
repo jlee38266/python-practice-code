@@ -1,0 +1,11 @@
+""" 정수형 자료 이해하기 """
+
+int_data = 10
+bin_data = 0b10
+oct_data = 0o10
+hex_data = 0x10
+
+print(int_data)
+print(bin_data)
+print(oct_data)
+print(hex_data)
